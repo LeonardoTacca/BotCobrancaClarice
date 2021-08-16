@@ -1,0 +1,1 @@
+Para fazer a instalação deste programa é nescessario que seja criado no disco C: uma pasta chamada driver, e dentro dela seja colocado uma versão do chrome driver compativel com o navegador chrome instalado
